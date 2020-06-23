@@ -26,4 +26,4 @@ Then, we can run the application using:
 > java GUI
 ```
 
-An interface will ask you to enter the directory of the folder with the thermal images. Once you submit, it will present the images that contains outliers.
+An interface will ask you to enter the directory of the folder with the thermal images. Once you submit, it will present the names of the image files that contains outliers.
