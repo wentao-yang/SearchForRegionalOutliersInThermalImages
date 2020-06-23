@@ -1,0 +1,8 @@
+bin
+.classpath
+.project
+build.xml
+src/GUI.class
+src/GUI$1.class
+src/ThermalImageCategorization.class
+src/ThermalImageCategorization$Point.class
