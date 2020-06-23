@@ -11,19 +11,19 @@ During an UT Inventor Sprint, an UT employee voiced his issues regarding repairs
 First, open up command prompt/terminal in this directory and enter this:
 
 ```
-> cd src
+$ cd src
 ```
 
 Next, compile the .java files. We only need to compile ```GUI.java``` since it contains the main method and calls ```ThermalImageCategorization.java```:
 
 ```
-> javac GUI.java
+$ javac GUI.java
 ```
 
 Then, we can run the application using:
 
 ```
-> java GUI
+$ java GUI
 ```
 
 An interface will ask you to enter the directory of the folder with the thermal images. Once you submit, it will present the names of the image files that contains outliers.
