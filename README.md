@@ -27,3 +27,7 @@ Then, we can run the application using:
 ```
 
 An interface will ask you to enter the directory of the folder with the thermal images. Once you submit, it will present the names of the image files that contains outliers.
+
+## Methodology
+
+Please refer to the comments within ```ThermalImageCategorization.java``` for the methodology. 
